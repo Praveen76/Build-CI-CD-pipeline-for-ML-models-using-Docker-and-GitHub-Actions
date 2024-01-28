@@ -1,6 +1,6 @@
 # Build CI/CD Pipeline for ML Models using Docker and GitHub Actions
 
-This repository contains code and files for building and deploying a machine learning model for predicting the survival of Titanic passengers using Docker and GitHub Actions.
+This repository contains code and files for building and deploying a Machine Learning model for predicting the survival of Titanic passengers using Docker and GitHub Actions.
 
 ## Overview
 
